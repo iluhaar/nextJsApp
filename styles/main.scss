@@ -1,0 +1,23 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+nav {
+    height: 45px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    display: flex;
+    background-color: cornflowerblue;
+    justify-content: space-around;
+    align-items:center;
+}
+nav a {
+    color: #fff;
+    text-decoration:none;
+    
+}
+main {
+    margin-top:45px;
+    padding-top:1rem;
+}
